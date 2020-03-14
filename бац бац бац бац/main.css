@@ -1,0 +1,17 @@
+main{
+column-count: 4;
+column-gap: 3px;
+}
+
+img{
+	max-width: 100%;
+	display: block;
+}
+
+h1{
+	font: Robotto;
+	font-size: 48px;
+	color: teal;
+	margin: 5%;
+	text-align: center;
+}
